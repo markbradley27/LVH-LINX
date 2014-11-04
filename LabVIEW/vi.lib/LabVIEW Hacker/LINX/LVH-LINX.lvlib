@@ -176,6 +176,7 @@
 			<Item Name="QE" Type="Folder">
 				<Item Name="QE Read 1 Chan.vi" Type="VI" URL="../Public/Peripherals/QE/QE Read 1 Chan.vi"/>
 				<Item Name="QE Read N Chans.vi" Type="VI" URL="../Public/Peripherals/QE/QE Read N Chans.vi"/>
+				<Item Name="QE Read.vi" Type="VI" URL="../Public/Peripherals/QE/QE Read.vi"/>
 			</Item>
 			<Item Name="SPI" Type="Folder">
 				<Item Name="SPI Configure.vi" Type="VI" URL="../Public/Peripherals/SPI/SPI Configure.vi"/>
