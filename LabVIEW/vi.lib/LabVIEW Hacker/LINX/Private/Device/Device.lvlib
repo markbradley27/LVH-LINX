@@ -114,6 +114,7 @@
 		</Item>
 		<Item Name="QE" Type="Folder">
 			<Item Name="QE Read.vi" Type="VI" URL="../Peripheral/QE/QE Read.vi"/>
+			<Item Name="QE Reset.vi" Type="VI" URL="../Peripheral/QE/QE Reset.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
